@@ -1,6 +1,6 @@
-# Vidya - Empowering Skilling and Career Development in India
+# Vidya AI- Empowering Skilling and Career Development in India
 
-**Vidya** is a comprehensive, AI-powered solution developed to bridge the gap between the current skills of youth in India and the evolving demands of the job market. Created by Team Init_to_Winit for the Smart India Hackathon 2024, Vidya is designed to offer personalized, adaptive learning pathways, inclusive skilling opportunities, and job market insights to help youth build sustainable careers.
+**Vidya AI** is a comprehensive, AI-powered solution developed to bridge the gap between the current skills of youth in India and the evolving demands of the job market. Created by Team Init_to_Winit for the Smart India Hackathon 2024, Vidya is designed to offer personalized, adaptive learning pathways, inclusive skilling opportunities, and job market insights to help youth build sustainable careers.
 
 **Project Access**: [Vidya AI](https://vidyaai.streamlit.app/)
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-Vidya addresses the skills gap affecting the youth by providing a tailored learning experience that integrates real-time job market trends, continuous skill assessment, and accessible learning pathways. Our project aims to reduce gender inequality and provide skilling support for individuals with disabilities, contributing to a fair and inclusive job market.
+Vidya AI addresses the skills gap affecting the youth by providing a tailored learning experience that integrates real-time job market trends, continuous skill assessment, and accessible learning pathways. Our project aims to reduce gender inequality and provide skilling support for individuals with disabilities, contributing to a fair and inclusive job market.
 
 ---
 
