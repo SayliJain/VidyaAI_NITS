@@ -63,7 +63,6 @@ st.markdown("Explore our interactive tools and resources below to enhance your s
 st.markdown("## 🔍 Features")
 
 sections = [
-    ("📈", "Progress Tracker and Personalized Learning Portal", "Track your learning progress and get personalized recommendations for skill development.", "https://progresstrackingskillforge.streamlit.app/"),
     ("📊", "Personalized Job Demand Analyser", "Analyze job trends and receive insights into high-demand skills and career paths.", "https://jobmarketanalyser.streamlit.app/"),
     ("🎥", "YouTube Video Summarizer & Notes Creator", "Summarize YouTube videos and extract key notes for efficient learning.", "https://notesgenerator.streamlit.app/")
 ]
